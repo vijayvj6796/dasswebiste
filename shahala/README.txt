@@ -1,5 +1,5 @@
 
-TITLE: 
+yTITLE: 
 Shahala - 100% Fully Responsive News Website Template
 
 AUTHOR:
